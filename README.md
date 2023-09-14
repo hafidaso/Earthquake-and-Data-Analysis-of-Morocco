@@ -1,1 +1,1 @@
-# Earthquake-and-Data-Analysis-of-Morocco
+# Earthquake-and-Data-Analysis-of-Morocco 🌍🔍
