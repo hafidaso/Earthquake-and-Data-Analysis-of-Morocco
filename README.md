@@ -31,7 +31,7 @@ In this project, we combine geospatial data, earthquake records, and venue prefe
 - Foursquare API
 
 ## License
-This project is under the [MIT License](LICENSE).
+This project is under the [MIT License](https://github.com/hafidaso/Earthquake-and-Data-Analysis-of-Morocco/blob/main/LICENSE).
 
 ## Contact
 For any further questions or collaboration opportunities, feel free to reach out to me:
