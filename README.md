@@ -1,5 +1,8 @@
 # Earthquake-and-Data-Analysis-of-Morocco 🌍🔍
 
+<b>Morocco</b>, located in North Africa, is a country that is not only known for its rich history, diverse culture, and breathtaking landscapes but also for its position on the geologically active plate boundaries, making it susceptible to earthquakes.
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Datasets](#datasets)
