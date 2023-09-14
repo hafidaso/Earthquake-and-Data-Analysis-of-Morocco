@@ -42,5 +42,5 @@ This project is under the [MIT License](LICENSE).
 
 ## Contact
 For any further questions or collaboration opportunities, feel free to reach out to me:
-- **LinkedIn**: [Your LinkedIn Profile](Your LinkedIn URL)
-- **Email**: `Your Email Address`
+- **LinkedIn**: [Hafida Belayd](Your LinkedIn URL)
+- **Email**: `hafidabelaidagnaoui@gmail.com`
