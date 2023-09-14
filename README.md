@@ -4,7 +4,6 @@
 - [Overview](#overview)
 - [Datasets](#datasets)
 - [Key Findings](#key-findings)
-- [Installation and Usage](#installation-and-usage)
 - [Tools & Libraries](#tools--libraries)
 - [License](#license)
 - [Contact](#contact)
@@ -23,12 +22,6 @@ In this project, we combine geospatial data, earthquake records, and venue prefe
 - Regional variations in earthquake occurrences and magnitudes.
 - Insights into preparedness measures for cities with significant seismic activity.
 
-## Installation and Usage
-1. Ensure all dependencies are installed.
-2. Clone the repository to your local machine.
-3. Navigate to the directory.
-4. Open the `Morocco.ipynb` notebook in Jupyter.
-5. Run all cells to perform the analysis and visualize the results.
 
 ## Tools & Libraries
 - Python
@@ -42,5 +35,5 @@ This project is under the [MIT License](LICENSE).
 
 ## Contact
 For any further questions or collaboration opportunities, feel free to reach out to me:
-- **LinkedIn**: [Hafida Belayd](Your LinkedIn URL)
+- **LinkedIn**: [Hafida Belayd](https://www.linkedin.com/in/hafida-belayd/)
 - **Email**: `hafidabelaidagnaoui@gmail.com`
